@@ -15,7 +15,7 @@ The program chooses a random number between 1 and 10, and the user keeps guessin
 
 ## 🧩 Algorithm (Pseudocode)
 
-*Algorithm: Number Guessing Game*
+Algorithm: Number Guessing Game
 
 1. Start the program  
 2. Generate a random number between 1 and 10 and store it as the secret number  
@@ -60,3 +60,4 @@ while guess != secret_number:
             print("🎉 Congratulations! You guessed it right!")
     except ValueError:
         print("Please enter a valid number.")
+>>>>>>>>> Temporary merge branch 2
