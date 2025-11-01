@@ -1,7 +1,3 @@
-# Found This Empty
-
-This should not be empty. It should contain the codes you have written for the assignment that were were given.
-
 # 🎯 Mini Project: Number Guessing Game
 
 *Project Author:* Damilola Amusan
@@ -19,7 +15,7 @@ The program chooses a random number between 1 and 10, and the user keeps guessin
 
 ## 🧩 Algorithm (Pseudocode)
 
-*Algorithm: Number Guessing Game*
+Algorithm: Number Guessing Game
 
 1. Start the program  
 2. Generate a random number between 1 and 10 and store it as the secret number  
