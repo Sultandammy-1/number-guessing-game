@@ -60,5 +60,4 @@ while guess != secret_number:
             print("🎉 Congratulations! You guessed it right!")
     except ValueError:
         print("Please enter a valid number.")
-
-### There you have it! Your number guessing game is ready
+>>>>>>>>> Temporary merge branch 2
